@@ -1,6 +1,5 @@
 import React, {useState} from 'react'
 import HeroSection from '../components/HeroSection'
-import { HeroContainer } from '../components/HeroSection/HeroElements'
 import Navbar from '../components/Navbar'
 import Sidebar from '../components/Sidebar'
 
